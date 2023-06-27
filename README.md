@@ -1,1 +1,1 @@
-# HikariQAQ.github.io
+# HikariQAQ
