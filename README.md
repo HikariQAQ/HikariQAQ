@@ -2,7 +2,6 @@
 这里是Hikari～
 
 平时喜欢玩音游、听歌、看动漫
-
 <br>
 互联网重度依赖患者
 
@@ -12,8 +11,6 @@
 
 ---
 你或许可以在以下位置找到我：~~谁会找啊喂！~~
-<br>
-[Github](https://github.com/HikariQAQ "放出来让大家看看咱有多废物（还挺自豪.png")
 <br>
 [Twitter](https://www.twitter.com/Hikari_Ciallo)
 <br>
