@@ -10,11 +10,11 @@
 想要变可爱qwq
 
 ---
-你或许可以在以下位置找到我：~~谁会找啊喂！~~
+你或许可以在以下位置找到我（~~谁会找啊喂！~~）：
 <br>
 [Twitter](https://www.twitter.com/Hikari_Ciallo)
 <br>
-[Mastodon](https://o3o.ca/@Hikari "比较少用（但说不定followers多了以后用的就多了呢（")
+[Mastodon](https://o3o.ca/@Hikari "比较少用（但说不定followers多了以后用的就多了呢（逃")
 <br>
 Email: <HikariQAQ@outlook.com>
 
