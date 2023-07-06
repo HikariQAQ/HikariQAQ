@@ -13,12 +13,12 @@
 ---
 你或许可以在以下位置找到我（~~谁会找啊喂！~~）：
 <br>
-[Twitter](https://www.twitter.com/Hikari_Ciallo)
+[Twitter](https://www.twitter.com/Hikari_Ciallo "应该还是会主营这个账户（？")
 <br>
 [喵窝](https://nya.one/@HikariQAQ)
 <br>
 [Mastodon](https://o3o.ca/@Hikari)
 <br>
-Email: <HikariQAQ@outlook.com>
+E-mail: <HikariQAQ@outlook.com>
 
 
