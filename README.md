@@ -15,7 +15,9 @@
 <br>
 [Twitter](https://www.twitter.com/Hikari_Ciallo)
 <br>
-[Mastodon](https://o3o.ca/@Hikari "比较少用（但说不定followers多了以后用的就多了呢（逃")
+[喵窝](https://nya.one/@HikariQAQ)
+<br>
+[Mastodon](https://o3o.ca/@Hikari)
 <br>
 Email: <HikariQAQ@outlook.com>
 
