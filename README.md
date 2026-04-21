@@ -1,4 +1,5 @@
 <h1>HikariQAQ</h1>
+https://dxrating.luoling.moe/api/genImage/name4045
 这里是Hikari～
 是一个什么都不会的笨蛋喵
 
